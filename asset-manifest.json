@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/himanshuvashistikonwork.github.io/n/static/css/main.e6c13ad2.css",
-    "main.js": "/himanshuvashistikonwork.github.io/n/static/js/main.1331fc11.js",
-    "static/js/787.36655e7e.chunk.js": "/himanshuvashistikonwork.github.io/n/static/js/787.36655e7e.chunk.js",
-    "index.html": "/himanshuvashistikonwork.github.io/n/index.html",
-    "main.e6c13ad2.css.map": "/himanshuvashistikonwork.github.io/n/static/css/main.e6c13ad2.css.map",
-    "main.1331fc11.js.map": "/himanshuvashistikonwork.github.io/n/static/js/main.1331fc11.js.map",
-    "787.36655e7e.chunk.js.map": "/himanshuvashistikonwork.github.io/n/static/js/787.36655e7e.chunk.js.map"
+    "main.css": "/role-based-route/static/css/main.e6c13ad2.css",
+    "main.js": "/role-based-route/static/js/main.d484a426.js",
+    "static/js/787.36655e7e.chunk.js": "/role-based-route/static/js/787.36655e7e.chunk.js",
+    "index.html": "/role-based-route/index.html",
+    "main.e6c13ad2.css.map": "/role-based-route/static/css/main.e6c13ad2.css.map",
+    "main.d484a426.js.map": "/role-based-route/static/js/main.d484a426.js.map",
+    "787.36655e7e.chunk.js.map": "/role-based-route/static/js/787.36655e7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1331fc11.js"
+    "static/js/main.d484a426.js"
   ]
 }
