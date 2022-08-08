@@ -1,8 +1,6 @@
-import routeDeclartion from "./routeDeclaration";
 const role = localStorage.getItem("role");
 
 function filterRoutes(r) {
-  console.log(r);
   return r.filter((item) => {
     if (!("permissions" in item)) {
       if ("children" in item) {

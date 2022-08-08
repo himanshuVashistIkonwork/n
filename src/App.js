@@ -1,11 +1,8 @@
-import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import routeDeclartion from "./routeDeclaration";
-import NavBar from "./NavBar";
-import School from "./School";
-import Class from "./Class";
-import { ADMIN, RECRUITER } from "./roles";
-import filterRoutes from "./filterRoutes";
+import routeDeclartion from "./miscellaneous/routeDeclaration";
+// eslint-disable-next-line no-unused-vars
+import { ADMIN, RECRUITER } from "./vars/roles";
+import filterRoutes from "./helpers/filterRoutes";
 
 function r(p) {
   return p.map(({ path, element: Element, children, index, permissions }) => (
@@ -16,11 +13,10 @@ function r(p) {
 }
 
 function App() {
-  localStorage.setItem("role", RECRUITER);
-  const copy = JSON.parse(JSON.stringify(routeDeclartion));
-  console.log(copy);
-  const filteredRoutes = filterRoutes(copy);
-  console.log(filteredRoutes);
+  // ========= setting role to test
+  localStorage.setItem("role", ADMIN);
+  // ========
+  const filteredRoutes = filterRoutes(routeDeclartion());
   return (
     <BrowserRouter>
       <Routes>{r(filteredRoutes)}</Routes>
