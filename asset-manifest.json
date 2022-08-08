@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.665c6088.js",
-    "static/js/787.36655e7e.chunk.js": "/static/js/787.36655e7e.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.665c6088.js.map": "/static/js/main.665c6088.js.map",
-    "787.36655e7e.chunk.js.map": "/static/js/787.36655e7e.chunk.js.map"
+    "main.css": "/himanshuvashistikonwork.github.io/n/static/css/main.e6c13ad2.css",
+    "main.js": "/himanshuvashistikonwork.github.io/n/static/js/main.1331fc11.js",
+    "static/js/787.36655e7e.chunk.js": "/himanshuvashistikonwork.github.io/n/static/js/787.36655e7e.chunk.js",
+    "index.html": "/himanshuvashistikonwork.github.io/n/index.html",
+    "main.e6c13ad2.css.map": "/himanshuvashistikonwork.github.io/n/static/css/main.e6c13ad2.css.map",
+    "main.1331fc11.js.map": "/himanshuvashistikonwork.github.io/n/static/js/main.1331fc11.js.map",
+    "787.36655e7e.chunk.js.map": "/himanshuvashistikonwork.github.io/n/static/js/787.36655e7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.665c6088.js"
+    "static/js/main.1331fc11.js"
   ]
 }
